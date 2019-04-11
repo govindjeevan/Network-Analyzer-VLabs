@@ -1,3 +1,0 @@
-"Method","Name","# requests","# failures","Median response time","Average response time","Min response time","Max response time","Average Content Size","Requests/s"
-"GET","/exp5/binarySearchTree.html",424,23,300,1854,50,47351,1046,7.14
-"None","Total",424,23,300,1854,50,47351,1046,7.14

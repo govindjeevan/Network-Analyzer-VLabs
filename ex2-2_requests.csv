@@ -1,3 +1,0 @@
-"Method","Name","# requests","# failures","Median response time","Average response time","Min response time","Max response time","Average Content Size","Requests/s"
-"GET","/Heat_Transfer_by_Radiation/experiment.html",415,0,82,641,59,41315,8015,6.97
-"None","Total",415,0,82,641,59,41315,8015,6.97

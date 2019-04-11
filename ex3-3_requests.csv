@@ -1,3 +1,0 @@
-"Method","Name","# requests","# failures","Median response time","Average response time","Min response time","Max response time","Average Content Size","Requests/s"
-"GET","/dec/exp1/index.html",1231,4,180,280,140,15204,8602,20.74
-"None","Total",1231,4,180,280,140,15204,8602,20.74
