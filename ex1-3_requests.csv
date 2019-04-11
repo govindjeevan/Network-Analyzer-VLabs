@@ -1,0 +1,3 @@
+"Method","Name","# requests","# failures","Median response time","Average response time","Min response time","Max response time","Average Content Size","Requests/s"
+"GET","/fourier.php",380,18,640,2209,96,55315,17119,6.42
+"None","Total",380,18,640,2209,96,55315,17119,6.42

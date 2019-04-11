@@ -1,0 +1,3 @@
+"Method","Name","# requests","# failures","Median response time","Average response time","Min response time","Max response time","Average Content Size","Requests/s"
+"GET","/cseweb/vlab/vlsi/1/",371,0,210,665,135,2882,4552,13.48
+"None","Total",371,0,210,665,135,2882,4552,13.48
